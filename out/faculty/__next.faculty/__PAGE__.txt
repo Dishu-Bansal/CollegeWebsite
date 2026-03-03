@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/CollegeWebsite/_next/static/chunks/ff1a16fafef87110.js","/CollegeWebsite/_next/static/chunks/247eb132b7f7b574.js"],"ClientPageRoot"]
+3:I[92689,["/CollegeWebsite/_next/static/chunks/be42df4f3995a9c3.js","/CollegeWebsite/_next/static/chunks/c4b509761b9de343.js","/CollegeWebsite/_next/static/chunks/a7af40ae45691310.js","/CollegeWebsite/_next/static/chunks/bd763ded258d8ebb.js","/CollegeWebsite/_next/static/chunks/6cc7f4a875102be7.js","/CollegeWebsite/_next/static/chunks/fab3ea2f029a7f9d.js"],"default"]
+6:I[97367,["/CollegeWebsite/_next/static/chunks/ff1a16fafef87110.js","/CollegeWebsite/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"lkQ4kOpXnMoA8cGFf0VNB","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/CollegeWebsite/_next/static/chunks/6cc7f4a875102be7.js","async":true}],["$","script","script-1",{"src":"/CollegeWebsite/_next/static/chunks/fab3ea2f029a7f9d.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
